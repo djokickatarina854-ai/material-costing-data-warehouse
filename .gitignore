@@ -1,0 +1,22 @@
+# Source data exports (never commit real data)
+*.txt
+*.csv
+*.xlsx
+*.xls
+
+# Database files and backups
+*.bak
+*.mdf
+*.ldf
+*.ndf
+
+# SSMS / editor / OS files
+*.ssmssqlproj.user
+.vs/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Local scratch
+scratch/
+local/
